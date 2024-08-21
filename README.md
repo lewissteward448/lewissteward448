@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **Through my LinkedIn**
 
-- 📄 Know about my experiences [Through my LinkedIn](Through my LinkedIn)
-
 - ⚡ Fun fact **I love ice hockey**
 
 ###
