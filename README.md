@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Lewis</h1>
 <h3 align="left">🚀 Aspiring Developer | Experienced in SQL & DBMS | Currently Enhancing Python Skills | Open to New Opportunities</h3>
 
-- 🔭 I’m currently working on **learning Python**
-
 - 🌱 I’m currently learning **Python**
 
 - 🔡 Pronouns **He/him**
