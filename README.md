@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Through my LinkedIn**
 
-- ⚡ Fun fact **I love ice hockey**
+- ⚡ Fun fact: **I love ice hockey, and swimming**
 
 ###
 
