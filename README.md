@@ -37,19 +37,7 @@
 
 ###
 
-<div align="left">
-  <a href="lwsstwrd909@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="http://linkedin.com/in/lewis-steward" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lewissteward448/lewissteward448/output/snake.svg" alt="Snake animation" />
-
-###
